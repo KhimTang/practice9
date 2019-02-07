@@ -10,6 +10,7 @@ namespace practice9
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("!!");
         }
     }
 }
